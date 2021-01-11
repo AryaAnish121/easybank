@@ -27,4 +27,4 @@
 
 ![Hyper](git.png)
 
-##### 4. All done, just go and use freely
+##### Step 4. All done, just go and use freely
