@@ -7,7 +7,6 @@
 ###### You can like my page on [Frontend Mentor](https://www.frontendmentor.io) here's the [link](https://www.frontendmentor.io/solutions/responsive-easybank-landing-page-jCYVm2FSn) please like it
 
 ***
-<br>
 
 # Preview
 
@@ -22,7 +21,7 @@
 
 ![Hyper](Hyper.png)
 
-_Like this and hit enter_
+###### _Like this and hit enter_
 
 ##### Step 3. Type `git clone https://github.com/AryaAnish121/easybank.git` and hit Enter
 
