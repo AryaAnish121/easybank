@@ -1,1 +1,15 @@
-# easybank.github.io
+## Frontend mentor Easybank landing Page
+
+#### Coded by Arya Anish
+
+###### I have coded this challange. Please say how is it?
+
+###### You can like my page on [Frontend Mentor](https://www.frontendmentor.io) here's the [link](https://www.frontendmentor.io/solutions/responsive-easybank-landing-page-jCYVm2FSn) please like it
+
+***
+
+# _Preview_
+
+***
+
+![Image](hello.png)
