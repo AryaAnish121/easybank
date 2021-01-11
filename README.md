@@ -1,4 +1,4 @@
-## Frontend mentor Easybank landing Page
+# Frontend mentor Easybank landing Page
 
 #### Coded by Arya Anish
 
@@ -8,8 +8,8 @@
 
 ***
 
-# _Preview_
-
-***
+# Preview
 
 ![Image](hello.png)
+
+`Thanks for support and thanks for reading`
